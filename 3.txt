@@ -1,2 +1,2 @@
-second line in 3.txt file
-first line in 3.txt 
+first line in 3.txt file
+second line in 3.txt 
