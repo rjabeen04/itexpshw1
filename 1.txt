@@ -1,2 +1,2 @@
 Line 1 in 1.txt file 
-line 3 in 1.txt 
+line 2 in 1.txt 
