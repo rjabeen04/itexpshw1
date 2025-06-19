@@ -1,2 +1,2 @@
 Line 1 in 2.txt file
-line 3 in 2.txt fiel
+line 2 in 2.txt fiel
