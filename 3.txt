@@ -1,0 +1,2 @@
+second line in 3.txt file
+first line in 3.txt 
