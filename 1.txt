@@ -1,1 +1,2 @@
-Line 2 is my second line in my 1.txt file
+Line 1 in 1.txt file 
+line 3 in 1.txt 
